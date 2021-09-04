@@ -10,7 +10,7 @@ I love solving problems using in **CPP**.
 I ♥️ to 
   - Read📖
   - Code💻 
-  - Play🏐
+  - Play
 
 <hr>
 
